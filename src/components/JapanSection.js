@@ -11,9 +11,9 @@ const JapanSection = () => {
           <div className="message-card">
             <h3>🌸 Japonya Sevgin</h3>
             <p>
-              Japonya'ya olan tutkunu görünce seni daha çok seviyorum. 
-              Anime'leri, manga'ları, J-pop'u, ramen'i, sushi'yi sevmen... 
-              Senin bu güzel kültüre olan sevgin beni de etkiliyor.
+              Japonya'ya olan tutkunu görünce seni daha çok seviyorum.
+              Anime'leri sevmen senin kültürlü zevki ve japonyanın doğası
+              kadar olan güzeliğini çok seviyorum iyiki hayatımdasın
             </p>
             <div className="japanese-elements">🍜 🍣 🎌 ⛩️ 🏮</div>
           </div>
