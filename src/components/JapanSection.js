@@ -12,8 +12,8 @@ const JapanSection = () => {
             <h3>🌸 Japonya Sevgin</h3>
             <p>
               Japonya'ya olan tutkunu görünce seni daha çok seviyorum.
-              Anime'leri sevmen senin kültürlü zevki ve japonyanın doğası
-              kadar olan güzeliğini çok seviyorum iyiki hayatımdasın
+              Anime'leri sevmen senin kültürlü, zevki ve japonyanın doğası
+              kadar olan güzel olmanı çok seviyorum iyiki hayatımdasın...
             </p>
             <div className="japanese-elements">🍜 🍣 🎌 ⛩️ 🏮</div>
           </div>
@@ -32,8 +32,8 @@ const JapanSection = () => {
             <h3>💕 Sana Sözüm</h3>
             <p>
               Bu mesafeler geçici. Yakında yanında olacağım ve birlikte 
-              hayallerini gerçekleştireceğiz. Japonya'da da, her yerde! 
-              Cosplay yapacağız, anime festivallere gideceğiz!
+              hayallerimizi gerçekleştireceğiz. Japonya'da da, her yerde! 
+              Belki Japonyada Rammstein konserine bile gideriz :D  <3 !
             </p>
             <div className="japanese-elements">👘 🎭 🎪 🎨 💫</div>
           </div>
